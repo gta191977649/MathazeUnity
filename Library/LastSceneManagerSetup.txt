@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/charactorccustom/ChacatorCustom.unity
+- path: Assets/title scene/title.unity
   isLoaded: 1
   isActive: 1
