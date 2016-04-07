@@ -1,0 +1,15 @@
+5.3.4f1:2.2.0.0
+WebPlayer
+D:/General SOFT/Unity3D/Editor/Data/Managed/UnityEngine.dll
+D:/General SOFT/Unity3D/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/General SOFT/Unity3D/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/General SOFT/Unity3D/Editor/Data/Managed/UnityEditor.dll
+D:/General SOFT/Unity3D/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+D:/General SOFT/Unity3D/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+D:/General SOFT/Unity3D/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+D:/General SOFT/Unity3D/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+D:/General SOFT/Unity3D/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+D:/General SOFT/Unity3D/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+D:/General SOFT/Unity3D/Editor/Data/Managed/UnityEditor.Graphs.dll
+D:/General SOFT/Unity3D/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll

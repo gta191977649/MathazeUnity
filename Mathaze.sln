@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathaze.CSharp.Plugins", "Mathaze.CSharp.Plugins.csproj", "{71EC3EFF-2C1B-51F2-B5C6-1899CD3ABC1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathaze.CSharp", "Mathaze.CSharp.csproj", "{D3078FCF-15E7-2D34-DD52-AA03122D0AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathaze.CSharp.Editor.Plugins", "Mathaze.CSharp.Editor.Plugins.csproj", "{E7B6F409-033F-0C37-215D-33ABD1196D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathaze.CSharp.Editor", "Mathaze.CSharp.Editor.csproj", "{E59FE3AF-2EA2-82A2-4450-71322E0E99C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EC3EFF-2C1B-51F2-B5C6-1899CD3ABC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EC3EFF-2C1B-51F2-B5C6-1899CD3ABC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EC3EFF-2C1B-51F2-B5C6-1899CD3ABC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EC3EFF-2C1B-51F2-B5C6-1899CD3ABC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3078FCF-15E7-2D34-DD52-AA03122D0AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3078FCF-15E7-2D34-DD52-AA03122D0AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3078FCF-15E7-2D34-DD52-AA03122D0AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3078FCF-15E7-2D34-DD52-AA03122D0AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B6F409-033F-0C37-215D-33ABD1196D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B6F409-033F-0C37-215D-33ABD1196D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B6F409-033F-0C37-215D-33ABD1196D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B6F409-033F-0C37-215D-33ABD1196D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59FE3AF-2EA2-82A2-4450-71322E0E99C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59FE3AF-2EA2-82A2-4450-71322E0E99C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59FE3AF-2EA2-82A2-4450-71322E0E99C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59FE3AF-2EA2-82A2-4450-71322E0E99C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
